@@ -8,3 +8,5 @@ client_secret_704672521092-fv1pvs8q06isqbq0gsilbud7g7jg67u8.apps.googleuserconte
 credentials.json
 
 token.json
+
+logs/*
